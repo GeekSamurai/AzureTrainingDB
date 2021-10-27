@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'PTWebApp1AureTraining'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87CE83DA6B2F4A2DB41BC7FE85080465 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D34D1B8A422484B935F989532ABE065 }}
           package: .
